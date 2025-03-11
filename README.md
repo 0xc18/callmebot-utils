@@ -66,7 +66,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Developed by **Sakib Salim**
-GitHub: [sakib-salim](https://github.com/SAKIB-SALIM)
+Developed by **Sakib Salim**  
+GitHub: [sakib-salim](https://github.com/SAKIB-SALIM)  
 
 
