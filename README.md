@@ -29,6 +29,7 @@ api_key = "YOUR_API_KEY"
 phone = "PHONE_NUMBER"
 
 whatsapp = Whatsapp(api_key, phone)
+
 response = whatsapp.send_text("Hello from CallMeBot!")
 print(response)
 ```
@@ -41,8 +42,16 @@ from callmebot_utils import Facebook
 api_key = "YOUR_API_KEY"
 
 facebook = Facebook(api_key)
+
 response = facebook.send_text("Hello from CallMeBot!")
 print(response)
+
+response = facebook.send_image_by_url("https://avatars.githubusercontent.com/u/144510317")
+print(response)
+
+response = facebook.send_image("./your_image_path.png")
+print(response)
+
 ```
 
 ### Sending a Message via Signal
@@ -54,6 +63,7 @@ api_key = "YOUR_API_KEY"
 phone = "PHONE_NUMBER"
 
 signal = Signal(api_key, phone)
+
 response = signal.send_text("Hello from CallMeBot!")
 print(response)
 ```
