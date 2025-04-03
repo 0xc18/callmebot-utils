@@ -4,7 +4,7 @@ callmebot-utils is a Python module that provides a simple interface to send mess
 
 [![PyPI](https://img.shields.io/pypi/v/callmebot-utils.svg)](https://pypi.org/project/callmebot-utils/)
 [![Python Version](https://img.shields.io/pypi/pyversions/callmebot-utils.svg)](https://pypi.org/project/callmebot-utils/)
-[![License](https://img.shields.io/github/license/SAKIB-SALIM/callmebot-utils)](https://github.com/SAKIB-SALIM/callmebot-utils/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/0xc18/callmebot-utils)](https://github.com/0xc18/callmebot-utils/blob/main/LICENSE)
 
 ---
 
@@ -77,6 +77,6 @@ This project is licensed under the MIT License.
 ## Author
 
 Developed by **Sakib Salim**  
-GitHub: [sakib-salim](https://github.com/SAKIB-SALIM)  
+GitHub: [0xc18](https://github.com/0xc18)  
 
 
